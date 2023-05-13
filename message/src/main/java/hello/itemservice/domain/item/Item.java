@@ -2,7 +2,7 @@ package hello.itemservice.domain.item;
 
 import lombok.Data;
 
-@Data
+@Data // 아이템 도메인
 public class Item {
 
     private Long id;
